@@ -1,4 +1,3 @@
-Este es un proyecto de prueba de clonarlo desde github a nuestra carpeta local
-19-05
+Esta es la 2da ediución.
 
 
